@@ -1,3 +1,3 @@
 # database design for blogs
 
-diseño de base de datos con .drawio
+database layout with .drawio
